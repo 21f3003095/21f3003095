@@ -1,6 +1,6 @@
 ## 👋 Hi i'm Rishav
 # 💫 About Me:
-🧑‍🎓 I’m Data Science student <br>🏛️ Studying in IIT Madras<br>👨🏻‍💻 I’m currently learning Machine Learning, Business Data Management, Business Analytics, Tools in
+🧑‍🎓 I’m Data Science student <br>🏛️ Studying in IIT Madras<br>👨🏻‍💻 I’m currently learning ML, LLM, DL, NLP, Business Data Management, Business Analytics, Tools in
 Data Science, Statistics, Computational Thinking, Programming, System Command, Modern Application Development etc.<br>
 
 
