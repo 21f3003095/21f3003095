@@ -1,7 +1,17 @@
-## 👋 Hi i'm Rishav
-# 💫 About Me:
-🧑‍🎓 I’m Data Science student <br>🏛️ Studying in IIT Madras<br>👨🏻‍💻 I’m currently learning Mechine Learning, Large Language Model, Deep Learning, Natural Language Processing, Business Data Management, Business Analytics, Tools in
-Data Science, Statistics, Computational Thinking, Programming, System Command, Modern Application Development etc.<br>
+## 👋 Hi, I'm Rishav Sagar
+
+### 💫 About Me
+🧑‍🎓 Data Science student at **IIT Madras**  
+💻 Interested in **Data Engineering, Data Analytics, and Machine Learning**  
+📊 Passionate about building **data pipelines, analytics systems, and data-driven solutions**
+
+### 📚 Currently Learning
+- Machine Learning & Deep Learning  
+- Large Language Models (LLMs)  
+- Natural Language Processing (NLP)  
+- Business Data Management & Business Analytics  
+- Statistics & Computational Thinking  
+- Data Engineering tools and modern data systems
 
 
 ## 🌐 Socials:
@@ -33,6 +43,12 @@ Data Science, Statistics, Computational Thinking, Programming, System Command, M
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Parquet](https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=for-the-badge)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=21f3003095&theme=dark&hide_border=false)<br/>
